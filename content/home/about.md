@@ -10,16 +10,17 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Statistics",
+    "Computer Science",
+    "Dogs/ Cats/ any animal",
+    "Gaming"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BS in Mathematics, Option in Statistics, Minor in Computer Science"
+  institution = "California State University, Chico"
+  year = 2019
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
