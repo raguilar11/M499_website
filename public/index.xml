@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gapminder</title>
+      <link>/post/gapminder/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gapminder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
