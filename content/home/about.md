@@ -18,14 +18,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BS in Mathematics, Option in Statistics, Minor in Computer Science"
+  course = "BS in Mathematics, Option in Statistics"
   institution = "California State University, Chico"
   year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Minor in Computer Science"
+  institution = "California State University, Chico"
+  year = 2019
  
 +++
 
