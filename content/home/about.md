@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-asdjhfalsdjhaslvl.
+I am a Junior at Califorina State University Chico, Majoring in Statistics and Minoring in Computer Science. My programming language toolbox is C++ and R.
